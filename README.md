@@ -26,7 +26,7 @@ This project is a fully functional **Shopping Cart** application built using HTM
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/shopping-cart.git
+   git clone https://github.com/mshende-project/shopping-cart.git
    
 ## Future enhancements
 - **Checkout Process:** Add functionality for a simulated checkout process.
